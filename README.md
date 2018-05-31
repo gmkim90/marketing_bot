@@ -2,6 +2,7 @@
 
 Goal: build chatbot which can act like telemarketer
 
+
 Track 1. Build korean chatbot with chit-chat
 
 1-1. AIML based chatbot
@@ -20,11 +21,14 @@ Procedure
 Translate english AIML based chatbot to korean.
 Translation engine is based on google translation API.
 
+
 Quick run
 python RULE_kor.py  (english ver. python RULE_eng.py)
 
+
 1-2. Chatscript
 http://exagen.tistory.com/notice/63
+
 
 
 Track 2. Build chatbot for telemarketing
