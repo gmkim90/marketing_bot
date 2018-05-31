@@ -23,7 +23,7 @@ Translate english AIML based chatbot to korean.
 Translation engine is based on google translation API.  
 
 
-Quick run
+Quick run  
 python RULE_kor.py  (english ver. python RULE_eng.py)
 
 
