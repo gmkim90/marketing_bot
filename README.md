@@ -7,6 +7,7 @@ Track 1. Build korean chatbot with chit-chat
 1-1. AIML based chatbot
 
 Tested on python 3.6, Ubuntu 14.04
+
 Requirement
 1. AIML
 pip install python-aiml 
@@ -27,4 +28,5 @@ http://exagen.tistory.com/notice/63
 
 
 Track 2. Build chatbot for telemarketing
+
 2-1. English version
