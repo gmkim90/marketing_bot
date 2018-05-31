@@ -24,7 +24,8 @@ Translation engine is based on google translation API.
 
 
 Quick run  
-python RULE_kor.py  (english ver. python RULE_eng.py)
+python RULE_kor.py  (english ver. python RULE_eng.py)  
+(05/31 first prototype. performance is not tested yet.)
 
 
 1-2. Chatscript  
